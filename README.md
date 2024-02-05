@@ -18,9 +18,6 @@ The radius is adjusted, based on the recorded magnitude of the earthquake.
 The color of the circular maker is dependent on the depth of the quake - deeper the earthquake, darker is the color of the marker.
 The depth categories have been chosen after studying different maps for reference.
 
-## Instruction:
-
-The app is hosted at the following site:
 
 
 
